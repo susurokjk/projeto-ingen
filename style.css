@@ -92,12 +92,13 @@ aside .video{
     display: block;
     margin: auto;
     background-color: #000000;
+    max-width: 27.5em;
 }
 
 main h3{
     color: white;
     background-image: linear-gradient(to right, #188bc0, transparent);
-    width: 25em;
+    width: 467px;
     border-radius: 10px;
     padding: 4px;
 }
