@@ -91,7 +91,7 @@ aside p{
 aside .video{
     display: block;
     margin: auto;
-    background-color: var(--cor03);
+    background-color: #000000;
 }
 
 main h3{
